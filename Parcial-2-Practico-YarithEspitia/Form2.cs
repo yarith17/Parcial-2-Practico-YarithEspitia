@@ -16,7 +16,7 @@ namespace Parcial_2_Practico_YarithEspitia
 
         public Form2()
         {
-            InitializeComponent();
+            InitializeComponent()
         }
 
         private void Form2_Load(object sender, EventArgs e)
@@ -55,7 +55,7 @@ namespace Parcial_2_Practico_YarithEspitia
             }
             else
             {
-                driver.Afiliacion = radioButton4.Text
+                driver.Afiliacion = radioButton4.Text;
             }
 
             Vehiculo carro = new Vehiculo();
