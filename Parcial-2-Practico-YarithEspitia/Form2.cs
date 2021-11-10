@@ -24,7 +24,7 @@ namespace Parcial_2_Practico_YarithEspitia
 
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e)
+        private void groupBox1_Enter(object sender, EventArgs e
         {
 
         }
