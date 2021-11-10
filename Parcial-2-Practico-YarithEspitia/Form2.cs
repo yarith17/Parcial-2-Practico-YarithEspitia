@@ -16,7 +16,7 @@ namespace Parcial_2_Practico_YarithEspitia
 
         public Form2()
         {
-            InitializeComponent();
+            InitializeComponent()
         }
 
         private void Form2_Load(object sender, EventArgs e)
@@ -24,7 +24,7 @@ namespace Parcial_2_Practico_YarithEspitia
 
         }
 
-        private void groupBox1_Enter(object sender, EventArgs e
+        private void groupBox1_Enter(object sender, EventArgs e)
         {
 
         }
