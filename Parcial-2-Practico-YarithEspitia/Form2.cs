@@ -19,7 +19,7 @@ namespace Parcial_2_Practico_YarithEspitia
             InitializeComponent();
         }
 
-        private void Form2_Load(object sender, EventArgs e
+        private void Form2_Load(object sender, EventArgs e)
         {
 
         }
