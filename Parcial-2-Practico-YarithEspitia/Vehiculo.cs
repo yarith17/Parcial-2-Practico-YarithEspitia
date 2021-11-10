@@ -11,6 +11,7 @@ namespace Parcial_2_Practico_YarithEspitia
         public string Placa { get; set; }
         public string Tipo { get; set; }
         public string Marca { get; set; }
+        public string Puesto { get; set; }
 
 
     }
