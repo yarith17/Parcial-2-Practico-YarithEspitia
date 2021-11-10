@@ -58,7 +58,7 @@ namespace Parcial_2_Practico_YarithEspitia
                 driver.Afiliacion = radioButton4.Text;
             }
 
-            Vehiculo carro = new Vehiculo();
+            Vehiculo carro = new Vehiculo()
             carro.Placa = textBox4.Text;
             carro.Marca = textBox5.Text;
 
@@ -104,7 +104,7 @@ namespace Parcial_2_Practico_YarithEspitia
             }
             else if (checkBox7.Checked == true)
             {
-                checkBox7.BackColor = Color.Red
+                checkBox7.BackColor = Color.Red;
             }
             else if (checkBox8.Checked == true)
             {
