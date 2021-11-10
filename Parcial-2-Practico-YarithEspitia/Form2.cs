@@ -58,7 +58,7 @@ namespace Parcial_2_Practico_YarithEspitia
                 driver.Afiliacion = radioButton4.Text;
             }
 
-            Vehiculo carro = new Vehiculo()
+            Vehiculo carro = new Vehiculo();
             carro.Placa = textBox4.Text;
             carro.Marca = textBox5.Text;
 
