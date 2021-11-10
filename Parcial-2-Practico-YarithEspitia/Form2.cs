@@ -19,7 +19,7 @@ namespace Parcial_2_Practico_YarithEspitia
             InitializeComponent();
         }
 
-        private void Form2_Load(object sender, EventArgs e)
+        private void Form2_Load(object sender, EventArgs e
         {
 
         }
@@ -116,7 +116,7 @@ namespace Parcial_2_Practico_YarithEspitia
             }
             else 
             {
-                checkBox10.BackColor = Color.Red
+                checkBox10.BackColor = Color.Red;
             }
         }
 
