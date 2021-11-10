@@ -38,7 +38,7 @@ namespace Parcial_2_Practico_YarithEspitia
         {
             Conductor driver = new Conductor();
             driver.Nombre = textBox2.Text;
-            driver.Identificacion = textBox3.Text
+            driver.Identificacion = textBox3.Text;
 
             if (radioButton1.Checked == true)
             {
@@ -112,7 +112,7 @@ namespace Parcial_2_Practico_YarithEspitia
             }
             else if (checkBox9.Checked == true)
             {
-                checkBox9.BackColor = Color.Red;
+                checkBox9.BackColor = Color.Red
             }
             else 
             {
