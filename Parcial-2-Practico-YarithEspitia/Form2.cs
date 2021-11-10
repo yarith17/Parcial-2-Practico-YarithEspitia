@@ -55,7 +55,7 @@ namespace Parcial_2_Practico_YarithEspitia
             }
             else
             {
-                driver.Afiliacion = radioButton4.Text;
+                driver.Afiliacion = radioButton4.Text
             }
 
             Vehiculo carro = new Vehiculo();
