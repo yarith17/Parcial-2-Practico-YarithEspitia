@@ -80,7 +80,7 @@ namespace Parcial_2_Practico_YarithEspitia
 
             if (checkBox4.Checked == true)
             {
-                checkBox4.BackColor = Color.Red
+                checkBox4.BackColor = Color.Red;
             }
             else if (checkBox1.Checked == true)
             {
